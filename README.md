@@ -31,3 +31,5 @@ the transistor in this connection is used to:
   a-regulate the voltage.
 
   b-avoid the high currents passing through the servo meters for safety purposes.
+  
+ 4- The values of resistors Rin and RL in the transistor chosen based on testing not a theoretical calculations.
