@@ -1,4 +1,4 @@
-# First-Task---Robot-Arm-
+# First-Task-Robot-Arm-
 
 5 Servo Motors controlled by a potentiometer ( Arduino based ) 
 
